@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "SmartWatch Redux"
+Title "SmartWatch Redux - E"
 Date ""
 Rev ""
 Comp ""
@@ -397,7 +397,7 @@ U 1 1 603370E2
 P 2950 4350
 F 0 "C1" H 3065 4396 50  0000 L CNN
 F 1 "0.1uF" H 3065 4305 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2988 4200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 2988 4200 50  0001 C CNN
 F 3 "~" H 2950 4350 50  0001 C CNN
 	1    2950 4350
 	1    0    0    -1  
