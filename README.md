@@ -6,7 +6,7 @@ Modern replacements for the DS1216 SmartWatch variants.
 SmartWatchRedux-E
 -----------------
 
-Status: Version 1.0 built and tested. Version 1.1 (minor changes) untested.
+Status: Version 1.0 built, tested and working. Version 1.1 (minor changes) untested.
 
 A replacement for the DS1216-E. This SmartWatch is for use on a BIOS
 or exapansion ROM socket. It is typically placed in between an existing
