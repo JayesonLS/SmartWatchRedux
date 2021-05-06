@@ -6,6 +6,8 @@ Modern replacements for the DS1216 SmartWatch variants.
 SmartWatchRedux-E
 -----------------
 
+Version 1.0 built and tested.
+
 A replacement for the DS1216-E. This SmartWatch is for use on a BIOS
 or exapansion ROM socket. It is typically placed in between an existing
 BIOS ROM and its socket.
@@ -17,6 +19,8 @@ ftp://ftp.oldskool.org/pub/tvdog/tandy1000/utilities/smwy2k.zip
 
 ATD-20-Redux
 ------------
+
+Currently untested. 
 
 A replacement for the ATD-20 clock. This is used in ATD exansion boards 
 for the Tandy 1000 computers such as the T512CLK-A1. It is believed that
